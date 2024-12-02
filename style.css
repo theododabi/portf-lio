@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css2?family=Bokor&display=swap)
+:root {
+--cor-principal: #be0000;
+--cor-secundaria: #1f5858;
+--cor-destaque: #000000;
+}
+
+body {
+font-family: 'Bokor';
+
+}
+
+h1, h2, h5 {
+color: var(--cor-secundaria);
+font-weight: 700;
+
+}
+
+footer a {
+color: var(--cor-principal)
+
+}
+
+footer a:hover {
+color: var(--cor-destaque);
+
+}
