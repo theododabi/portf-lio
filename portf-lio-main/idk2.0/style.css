@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi+Ink&display=swap');
+;:root {
+      --cor-principal: #ff0000;
+    --cor-segundaria: #282828;
+    --cor-destaque: #ffffff;
+
+}
+body {
+    font-family:'Reem Kufi Ink'
+
+}
